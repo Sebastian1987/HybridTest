@@ -1,6 +1,0 @@
-﻿/* Tablas */
-.tbl_estudiantes { border-left: solid 1px #ccc; border-right: solid 1px #ccc; }
-.container_tabla_2 table { border-collapse: collapse; }
-.container_tabla_2 table th { background: #A6C754; color: #fff; font-weight: 400; padding: 10px; border: 3px solid #F2F2F2; font-size: 12px; font-variant: normal; border-right: 1px solid #000; text-align: center; font-weight: bold; }
-.container_tabla_2 table td { border-right: 1px solid #E0E0E0; padding: 5px; white-space: nowrap; }
-.container_tabla_2 table tr:nth-child(even) { background: #F2F2F2; }
