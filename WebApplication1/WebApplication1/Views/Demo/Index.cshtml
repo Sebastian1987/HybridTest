@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<div class="info-container">
+    <div id="grid"></div>
+</div>
+<script type="text/javascript" >
+    $(document).ready(function ()
+    {
+        debugger;
+        $("#grid").kendoGrid(
+        {
+            //datasource
+            heigt: 550,
+            groupable: true,
+            sortable: true,
+            pageable: {
+                refresh: true,
+                pageSizes: true,
+                buttonCount:5
+            },
+            columns: [{
+                field: "ContactTitle",
+                title: "Contact Title"
+            }, {
+                field: "CompanyName",
+                title: "Company Name"
+            }, {
+                field: "Country",
+                width: 150
+            }]
+
+        });
+    });
+</script>
