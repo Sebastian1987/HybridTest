@@ -1,0 +1,108 @@
+﻿
+@{
+    ViewBag.Title = "Customer";
+}
+
+<div class="info-container">
+    <div id="grid"></div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var crudServiceBaseUrl = "https://demos.telerik.com/kendo-ui/service",
+                        dataSource = new kendo.data.DataSource({
+                            transport: {
+                                read: {
+                                    url: "/api/CustomerApi",
+                                    dataType: "json"
+                                },
+                                update: {                                    
+                                    url: "/api/CustomerApi/UpdateCustomer?update=true",
+                                    dataType: 'json',
+                                    type: 'POST',
+                                    data: {
+                                        DataToUpsert: kendo.stringify()
+                                    },
+                                    success: function (result) {
+                                        options.success(result);                                        
+                                    },
+                                    error: function (result) {
+                                        options.error(result);                                        
+                                    }
+                                },
+                                destroy: {
+                                    url: crudServiceBaseUrl + "/Products/Destroy",
+                                    dataType: "json"
+                                },
+                                create: {
+                                    url: "/api/CustomerApi/CreateUser?create=true",
+                                    dataType: 'json',
+                                    type: 'POST',
+                                    data: {
+                                        DataToUpsert: kendo.stringify()
+                                    },
+                                    success: function (result) {
+                                        options.success(result);
+                                        Message('success', 'Se editó la fila con el id ' + options.data.ContactId + '.');
+                                    },
+                                    error: function (result) {
+                                        options.error(result);
+                                        Message('error', 'Error en la fila con el id ' + options.data.ContactId + '.');
+                                    }
+                                },
+                                parameterMap: function (options, operation) {
+                                    if (operation !== "read" && options.models) {
+                                        return { models: kendo.stringify(options.models) };
+                                    }
+                                }
+                            },
+                            batch: true,
+                            pageSize: 20,
+                            schema: {
+                                model: {
+                                    id: "CustomerId",
+                                    fields: {
+                                        CustomerId: { editable: false, nullable: false,  defaultValue: 0},
+                                        Title: { editable: true },
+                                        FirstName: { editable: true },
+                                        MiddleName: { editable: true },
+                                        LastName: { editable: true },
+                                        Suffix: { editable: true },
+                                        CompanyName: { editable: true },
+                                        SalesPerson: { editable: true },
+                                        EmailAddress: { editable: true },
+                                        Phone: { editable: true },
+                                    }
+                                }
+                            }
+                        });
+        debugger;
+        $("#grid").kendoGrid(
+        {
+            dataSource: dataSource,
+            heigt: 550,
+            groupable: true,
+            sortable: true,
+            pageable: {
+                refresh: true,
+                pageSizes: true,
+                buttonCount: 5
+            },
+            toolbar: ["create", "save", "cancel"],
+            columns: [
+            { field: "CustomerId", title: "CustomerId", width: 120, hidden: true, defaultValue:0 },
+            { field: "Title", title: "Title", width: 120 },
+            { field: "FirstName", title: "First Name", width: 120 },
+            { field: "MiddleName", title: "Middle Name", width: 120 },
+            { field: "LastName", title: "Last Name", width: 120 },
+            { field: "Suffix", title: "Suffix", width: 120 },
+            { field: "CompanyName", title: "Company Name", width: 120 },
+            { field: "SalesPerson", title: "Sales Person", width: 120 },
+            { field: "EmailAddress", title: "Email Address", width: 120 },
+            { field: "Phone", title: "Phone", width: 120 },
+
+
+            { command: "destroy", title: "&nbsp;", width: 150 }],
+            editable: true
+        });
+    });
+</script>

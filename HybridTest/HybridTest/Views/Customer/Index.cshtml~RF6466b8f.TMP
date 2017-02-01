@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewBag.Title = "Customer";
+}
+
+<div class="info-container">
+    <div id="grid"></div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function ()
+    {
+        var crudServiceBaseUrl = "https://demos.telerik.com/kendo-ui/service",
+                        dataSource = new kendo.data.DataSource({
+                            type:"json",
+                            transport: {
+                                read:{ 
+                                    url:"/api/CustomerApi",
+                                    dataType:"json"
+                                }
+                                url
+                                    
+                                    
+                                },
+                                update: {
+                                    url: crudServiceBaseUrl + "/Products/Update",
+                                    dataType: "jsonp"
+                                },
+                                destroy: {
+                                    url: crudServiceBaseUrl + "/Products/Destroy",
+                                    dataType: "jsonp"
+                                },
+                                create: {
+                                    url: crudServiceBaseUrl + "/Products/Create",
+                                    dataType: "jsonp"
+                                },
+                                parameterMap: function (options, operation) {
+                                    if (operation !== "read" && options.data) {
+                                        return { models: kendo.stringify(options.data) };
+                                    }
+                                }
+                            },
+                            batch: true,
+                            pageSize: 20,
+                            schema: {
+                                model: {
+                                    id: "CustomerId",
+                                    fields: {
+                                        CustomerId: { editable: false, nullable: true },
+                                        Title: { type: "string", editable:true },                                       
+                                    }
+                                }
+                            }
+                        });
+        debugger;
+        $("#grid").kendoGrid(
+        {            
+            dataSource: dataSource,
+            heigt: 550,
+            groupable: true,
+            sortable: true,
+            pageable: {
+                refresh: true,
+                pageSizes: true,
+                buttonCount:5
+            },
+            toolbar: ["create", "save", "cancel"],
+            columns: [           
+            { field: "Title", title: "Title", width: 120 },         
+            { command: "destroy", title: "&nbsp;", width: 150 }],
+        editable: true
+        });
+    });
+</script>
+

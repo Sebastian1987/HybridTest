@@ -1,0 +1,143 @@
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\ApplicationInsights.config
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\csc.exe
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\System.Collections.Immutable.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\vbc.exe
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\VBCSCompiler.exe
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\VBCSCompiler.exe.config
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\HybridTest.dll.config
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\HybridTest.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\HybridTest.pdb
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\EntityFramework.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\EntityFramework.SqlServer.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.AI.Web.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.AI.WindowsServer.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.ApplicationInsights.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Newtonsoft.Json.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Net.Http.Formatting.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Helpers.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Http.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Http.WebHost.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Mvc.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Razor.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Webpages.Deployment.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Webpages.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Webpages.Razor.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\EntityFramework.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\EntityFramework.SqlServer.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.AI.Web.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.AI.WindowsServer.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.ApplicationInsights.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Razor.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Webpages.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Webpages.Deployment.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Webpages.Razor.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Helpers.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Mvc.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\Newtonsoft.Json.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Net.Http.Formatting.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Http.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\bin\System.Web.Http.WebHost.xml
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\obj\Debug\HybridTest.dll
+c:\users\diego f jaramillo\documents\visual studio 2015\Projects\HybridTest\HybridTest\obj\Debug\HybridTest.pdb
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\csc.exe.config
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\csc.rsp
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\csi.exe
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\csi.rsp
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\System.AppContext.dll
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\System.IO.FileSystem.dll
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\vbc.exe.config
+c:\Users\DIEGO F JARAMILLO\Documents\Visual Studio 2015\Projects\HybridTest\HybridTest\bin\roslyn\vbc.rsp
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\ApplicationInsights.config
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\csc.exe
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\csc.exe.config
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\csc.rsp
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\csi.exe
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\csi.rsp
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\System.AppContext.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\vbc.exe
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\vbc.exe.config
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\vbc.rsp
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\HybridTest.dll.config
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\HybridTest.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\HybridTest.pdb
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\EntityFramework.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\EntityFramework.SqlServer.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.AI.Web.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Newtonsoft.Json.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Net.Http.Formatting.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Helpers.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Http.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Http.WebHost.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Mvc.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Razor.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Webpages.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Webpages.Razor.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\EntityFramework.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\EntityFramework.SqlServer.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.AI.Web.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\Newtonsoft.Json.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Razor.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Webpages.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Webpages.Razor.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Helpers.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Mvc.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Net.Http.Formatting.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Http.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\bin\System.Web.Http.WebHost.xml
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\obj\Debug\HybridTest.csprojResolveAssemblyReference.cache
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\obj\Debug\HybridTest.dll
+C:\Users\DiegoF\Source\Repos\HybridTest\HybridTest\HybridTest\obj\Debug\HybridTest.pdb
