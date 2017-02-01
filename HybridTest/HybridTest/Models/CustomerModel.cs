@@ -5,7 +5,7 @@ using System.Web;
 
 namespace HybridTest.Models
 {
-    public class Customer
+    public class CustomerModel
     {
         public int CustomerId { get; set; }
         public bool NameStyle { get; set; }
@@ -22,6 +22,7 @@ namespace HybridTest.Models
         public string PasswordSalt { get; set; }
         public Guid rowguid { get; set; }
         public DateTime ModifiedDate { get; set; }
+
                 
 
     }
