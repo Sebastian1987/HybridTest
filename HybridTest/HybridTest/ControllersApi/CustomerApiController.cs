@@ -9,8 +9,7 @@ namespace HybridTest.ControllersApi
 {
 
     public class CustomerApiController : ApiController
-    {
-
+    {    
         [HttpGet]
         public List<HybridTest.Models.CustomerModel> Customer(string id)
         {
